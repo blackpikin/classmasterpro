@@ -1,0 +1,39 @@
+/* 
+    Created on : May 1, 2015, 5:39:19 PM
+    Author     : Halsey Takang
+*/
+body {
+   background-color: #f5f5f5;
+   color: #fff;
+   font-family:'lucida grande',verdana,helvetica,arial,sans-serif;
+   font-size:90%;
+   margin: 0; 
+}
+
+#header a{
+    font-weight: bold;
+    font-size: 16pt;
+}
+.tsb{
+    margin-top: 55px;
+    background-color: #fff;
+    color: #003d4c;
+}
+
+.tct{
+    margin-top: 55px;
+}
+
+.person{
+    background-color: #FFFFFF;
+    max-width: 540px;
+    min-height: 150px;
+    border-radius: 10px;
+    padding: 8px;
+    color: blue;
+    display: inline-block;
+}
+
+.formDiv{
+    margin-top: 8px;
+}
